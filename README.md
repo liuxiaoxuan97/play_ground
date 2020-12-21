@@ -6,3 +6,4 @@ A place to play with `git`.
 Class prep.
 Pre-class demo
 In-class demo
+hello world
